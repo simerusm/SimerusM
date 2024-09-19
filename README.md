@@ -1,5 +1,10 @@
-## Hi there 👋
+hey, my name is simerus. i'm a second-year software engineering student at waterloo.
 
+i love working on cool and challenging things that can impact many people
+
+some things that i've built are ai agents to simulate a startup from ground up and a policy recommendation engine
+
+feel free to reach out to my email simerus.mahesh@uwaterloo.ca
 <!--
 **SimerusM/SimerusM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
