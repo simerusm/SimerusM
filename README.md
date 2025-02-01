@@ -1,4 +1,4 @@
-hey, my name is simerus. i'm a second-year software engineering student at waterloo.
+i'm a second-year software engineering student at waterloo.
 
 i love working on cool and challenging things that can impact many people
 
